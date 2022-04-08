@@ -1,4 +1,4 @@
-#go-torgen
+# go-torgen [![Go Documentation](https://godocs.io/github.com/abdullah2993/go-torgen?status.svg)](https://godocs.io/github.com/abdullah2993/go-torgen)
 Generate keys for both v2 and v3 TOR Hidden Service
 
 ```
